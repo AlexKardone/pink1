@@ -1,0 +1,15 @@
+{
+   "folders":
+   [
+      {
+         "path": "/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/pink"
+      }
+   ],
+   "settings": {
+      "sublime-view-in-browser": {
+         "baseUrl": "http://localhost/pink",
+         "basePath": "/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/pink"
+      }
+   }
+   
+}

@@ -1,0 +1,12 @@
+.promo-block {
+	&__header {
+		text-align: center;
+		font-weight: 100;
+		font-size: $fs-base + 10;
+		line-height: $lh-base + 8;
+	}
+
+	&__img {
+		display: block;
+	}
+}

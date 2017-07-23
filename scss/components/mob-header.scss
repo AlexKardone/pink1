@@ -1,0 +1,41 @@
+.mob-header {
+
+	color: $header-color;
+
+	background: url("../img/background-1@1x.jpg") no-repeat;
+
+	@media (min-width: 700px) {
+		background: url("../img/background-1@2x.jpg") no-repeat;
+	}
+
+	&-top {
+
+		display: flex;
+		justify-content: space-between;
+		padding: 20px 24px;
+
+		background-color: rgba(0, 0, 0, 0.3);
+
+		&__logo {
+			margin: 0;
+
+			font-size: $fs-base + 18;
+			text-transform: uppercase;
+			font-family: "GothamRoundedBook", "Arial", sans-serif;
+		}
+
+		&__menu {
+			cursor: pointer;
+		}
+
+		&__burger-menu:hover path {
+			fill: $hover-clr;
+		}
+
+		&__burger-menu:active path {
+			fill: $active-clr;
+		}
+	}
+	
+
+}

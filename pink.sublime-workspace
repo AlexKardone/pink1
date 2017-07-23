@@ -1,0 +1,524 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prod",
+				"product-1-2.jpg\tw:140 h:149"
+			],
+			[
+				"animation",
+				"animation-duration"
+			],
+			[
+				"sp",
+				"social-sprite.png\tw:141 h:43"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"out",
+				"outline-offset"
+			],
+			[
+				"wor",
+				"word-spacing"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"get",
+				"getDay"
+			],
+			[
+				"c",
+				"copy"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"transitio",
+				"transition-property"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"table-",
+				"table-cell"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"align-",
+				"align-self"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"ge",
+				"getElementsByClassName"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"word-",
+				"word-wrap"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"tr",
+				"translate()"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"Segoe",
+				"SegoeUISemiBold/"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"mai",
+				"main-menu"
+			],
+			[
+				"text-de",
+				"text-decoration-line"
+			],
+			[
+				"border-s",
+				"border-spacing"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Track Remote Branch"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git add index.html",
+			"git add"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/pink"
+	],
+	"file_history":
+	[
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershopadapt/sass/components/_base.scss",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershopadapt/sass/components/_page_header.scss",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershopadapt/sass/components/_promo-haircut.scss",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershopadapt/css/normalize.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershopadapt/sass/components/_mob-menu.scss",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershopadapt/sass/components/_grid.scss",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershopadapt/sass/components/_logo.scss",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershopadapt/img/logo.svg",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershopadapt/sass/_fonts.scss",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershopadapt/sass/components/page_header.scss",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershopadapt/sass/style.scss",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershopadapt/sass/test.scss",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/br.sublime-project",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/untitled.sublime-project",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/contacts.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/item.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/login.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/registration.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/password-recovery.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/map.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/shop.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/style.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/cart.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/info.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/price.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/news.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/normalize.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/js/slider.js",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/php/mail.php",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/js/common.js",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/untitled.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/js/popup.js",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/js/maps.js",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop/barbershop/shop.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/chat/untitled.sublime-project",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/chat/pages/walkthrough.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/chat/login.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/chat/pages/profile.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/chat/pages/create_account.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/js/carousels.js",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/chat/img/sierraa.png",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/chat/index.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/chat/fonts/font-awesome.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/chat/styles/style.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/test/style.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/test/style.scss",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/test/untitled.sublime-project",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/test/_reset.scss",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/test/helloworld.js",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/test-task/index.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/test-task/styles.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/test-task/untitled.sublime-project",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/profile/script.js",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/profile/styles.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/profile/send.php",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/profile/blocks/content-middle.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/profile/index.php",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/profile/footer.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/profile/header.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/profile/blocks/content-bottom.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/profile/blocks/content-top.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/profile/profile.sublime-project",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/profile/index.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/perfume-project.sublime-project",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/index.php",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/test.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/footer/footer.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/styles/styles.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/carousels/top-sellers-women.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/carousels/top-sellers-men.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/sale-block/sale-block.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/header/header.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/blocks/subscribe-block.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/carousels/best-sellers.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/img/loewe-madrid.png",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/script/script.js",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/script/slider/orbit.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/fonts/segoeuisl.ttf",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/img/logo.png",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/img/slider-background.png",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/perfume/index.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/js/adapt.js",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/styles/adaptive.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/header/header.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/section/section.php",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/styles/styles.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/index.php",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/styles/styles-internal.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/footer/footer.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/new_products/np.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/js/jquery-3.2.1.min.js",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/styles/style-np.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/js/learn.js",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/featured_products/featured_products.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/new_products/new_products.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/js/new_products.js",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/index.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/untitled.sublime-project",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/styles/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/index.COMMIT_EDITMSG",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/giftshop/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/phpinfo.php",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/Training-layout/Templates-for-workout/giftshop/styles/styles.css",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/Training-layout/Templates-for-workout/giftshop/untitled.sublime-project",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/Training-layout/Templates-for-workout/giftshop/index.html",
+		"/Users/alexandermatskevich/Library/Application Support/Sublime Text 3/Packages/User/~:Library:Application Support:Sublime Text 2:Packages:User",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/Обучение верстке/Шаблоны для тренировки/giftshop/index.html",
+		"/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/Обучение верстке/Кексби-сайт/index.html",
+		"/Users/alexandermatskevich/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/Users/alexandermatskevich/Downloads/Oswald_Regular/stylesheet.css",
+		"/Users/alexandermatskevich/Downloads/Oswald_Regular/Oswald-Regular.svg"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ифкиукырщз-1",
+			"filter-form",
+			"main",
+			"modal-content-show",
+			"youtu",
+			"13px",
+			"width",
+			">\n",
+			"fill",
+			"#",
+			"../img/goods-item.png",
+			"featured-item__title",
+			"selection-title",
+			"new-products",
+			"card",
+			"3px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/giftshop/section/section.php",
+			"/giftshop/img/goods-item.png"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/untitled.sublime-build",
+	"project": "pink.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
