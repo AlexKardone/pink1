@@ -1,56 +1,49 @@
 .download-block {
-	padding: 28px 20px;
+  padding: 28px 20px;
+  text-align: center;
+  color: $header-color;
+  background-color: $dwnld-block-bg;
 
-	color: $header-color;
-	text-align: center;
+  &__download-btn {
+    font-size: $fs-base + 4;
+    font-weight: 300;
+    line-height: $lh-base - 6;
+    margin-bottom: 37px;
+    padding: 15px 37px;
+    cursor: pointer;
+    color: $header-color;
+    border: 3px solid $header-color;
+    border-radius: 27px;
+    background-color: $dwnld-block-bg;
 
-	background-color: $dwnld-block-bg;
+    &:hover {
+      color: #d22856;
+      background-color: $header-color;
+    }
 
-	&__download-btn {
-		margin-bottom: 37px;
-		padding: 15px 37px;
+    &:active {
+      color: #f2ced5;
+      background-color: $header-color;
+    }
 
-		color: $header-color;
-		font-weight: 300;
-		font-size: $fs-base + 4;
-		line-height: $lh-base - 6;
+    &:focus {
+      outline: none;
+    }
+  }
 
-		border: 3px solid $header-color;
-		border-radius: 27px;
-		background-color: $dwnld-block-bg;
-		cursor: pointer;
+  &__logos {
+    display: flex;
+    margin-bottom: 26px;
+    padding: 0 30px;
+    justify-content: space-around;
+    align-items: center;
+  }
 
-		&:hover {
-			color: #d22856;
+  &__logos__item path {
+    fill: $header-color;
+  }
 
-			background-color: $header-color;
-		}
-
-		&:active {
-			color: #f2ced5;
-
-			background-color: $header-color;
-		}
-
-		&:focus {
-			outline: none;
-		}
-	}
-
-	&__logos {
-		display: flex;
-		justify-content: space-around;
-		align-items: center;
-
-		margin-bottom: 26px;
-		padding: 0 30px;
-	}
-
-	&__logos__item path {
-		fill: $header-color;
-	}
-
-	&__text {
-		margin: 0;
-	}
+  &__text {
+    margin: 0;
+  }
 }

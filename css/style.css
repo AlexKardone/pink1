@@ -1,0 +1,268 @@
+@font-face {
+	font-family: "GothamRoundedBook";
+	font-weight: 100;
+	font-style: normal;
+	src: url("../fonts/GothamRoundedBook_21018.ttf");
+}
+
+@font-face {
+	font-family: "Opensans";
+	font-weight: 200;
+	font-style: normal;
+	src: url("../fonts/open-sans_[allfont.ru].ttf");
+}
+
+@font-face {
+	font-family: "Opensans";
+	font-weight: 100;
+	font-style: normal;
+	src: url("../fonts/open-sans-light_[allfont.ru].ttf");
+}
+
+@font-face {
+	font-family: "Opensans";
+	font-weight: 300;
+	font-style: normal;
+	src: url("../fonts/OpenSans-Bold.ttf");
+}
+
+html,
+body {
+	min-width: 320px;
+}
+
+body {
+	font-family: "Opensans", "Arial", sans-serif;
+	font-size: 14px;
+	font-weight: 100;
+	line-height: 24px;
+	color: #283645;
+}
+
+.mob-header {
+	color: #fff;
+	background: url("../img/background-1@1x.jpg") no-repeat;
+}
+
+.mob-header-top {
+	display: -ms-flexbox;
+	display: flex;
+	padding: 20px 24px;
+	background-color: rgba(0, 0, 0, 0.3);
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+}
+
+.mob-header-top__logo {
+	font-family: "GothamRoundedBook", "Arial", sans-serif;
+	font-size: 32px;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+.mob-header-top__menu {
+	cursor: pointer;
+}
+
+.mob-header-top__burger-menu:hover path {
+	fill: #d22856;
+}
+
+.mob-header-top__burger-menu:active path {
+	fill: #5e354e;
+}
+
+.mob-menu {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: none;
+	width: 100%;
+}
+
+.mob-menu--js {
+	display: block;
+}
+
+.mob-menu__list {
+	margin: 0;
+	padding: 0;
+}
+
+.mob-menu__list li {
+	list-style: none;
+	text-align: center;
+	border-top: 1px solid #485360;
+	border-bottom: 1px solid #000;
+	background-color: #283645;
+}
+
+.mob-menu__list li:first-child {
+	display: -ms-flexbox;
+	display: flex;
+	padding: 20px 24px;
+	cursor: pointer;
+	text-align: initial;
+	border-top: none;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+}
+
+.mob-menu__list li .mob-header-top__close:hover path {
+	fill: #d22856;
+}
+
+.mob-menu__list li .mob-header-top__close:active path {
+	fill: #5e354e;
+}
+
+.mob-menu__list a {
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 32px;
+	display: block;
+	padding: 20px 24px;
+	text-decoration: none;
+	text-transform: lowercase;
+	color: #fff;
+}
+
+.mob-menu__list a:hover {
+	color: #d22856;
+}
+
+.mob-menu__list a:active {
+	color: #5e354e;
+}
+
+.promo-block__header {
+	font-size: 24px;
+	font-weight: 100;
+	line-height: 32px;
+	text-align: center;
+}
+
+.promo-block__img {
+	display: block;
+}
+
+.download-block {
+	padding: 28px 20px;
+	text-align: center;
+	color: #fff;
+	background-color: #1d2631;
+}
+
+.download-block__download-btn {
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 18px;
+	margin-bottom: 37px;
+	padding: 15px 37px;
+	cursor: pointer;
+	color: #fff;
+	border: 3px solid #fff;
+	border-radius: 27px;
+	background-color: #1d2631;
+}
+
+.download-block__download-btn:hover {
+	color: #d22856;
+	background-color: #fff;
+}
+
+.download-block__download-btn:active {
+	color: #f2ced5;
+	background-color: #fff;
+}
+
+.download-block__download-btn:focus {
+	outline: none;
+}
+
+.download-block__logos {
+	display: -ms-flexbox;
+	display: flex;
+	margin-bottom: 26px;
+	padding: 0 30px;
+	-ms-flex-pack: distribute;
+	justify-content: space-around;
+	-ms-flex-align: center;
+	align-items: center;
+}
+
+.download-block__logos__item path {
+	fill: #fff;
+}
+
+.download-block__text {
+	margin: 0;
+}
+
+.features {
+	text-align: center;
+}
+
+.features__header {
+	font-size: 24px;
+	font-weight: 100;
+	line-height: 32px;
+	position: relative;
+	display: block;
+	margin: 0;
+	padding: 42px 20px;
+	padding-bottom: 66px;
+}
+
+.features__header span {
+	display: inline-block;
+	margin-bottom: 37px;
+}
+
+.features__header::after {
+	position: absolute;
+	z-index: -1;
+	bottom: 0;
+	left: 0;
+	display: block;
+	box-sizing: border-box;
+	content: "";
+	border-top: 8vw solid transparent;
+	border-right: 100vw solid #f2f2f2;
+}
+
+.features__list {
+	position: relative;
+	z-index: 10;
+	margin: 0;
+	padding: 0;
+	padding-right: 20px;
+	padding-left: 20px;
+	list-style: none;
+	background-color: #f2f2f2;
+}
+
+.features__item:first-child {
+	padding-top: 56px;
+}
+
+.features__title {
+	font-size: 18px;
+	line-height: 32px;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+
+.features__text {
+	margin: 0;
+	margin-bottom: 36px;
+}
+
+@media (min-width: 700px) {
+
+.mob-header {
+	background: url("../img/background-1@2x.jpg") no-repeat;
+}
+
+}
+

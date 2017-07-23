@@ -1,12 +1,12 @@
 html,
 body {
-	min-width: 320px;
+  min-width: 320px;
 }
 
 body {
-	font-family: "Opensans", "Arial", sans-serif;
-	font-weight: 100;
-	font-size: $fs-base;
-	line-height: $lh-base;
-	color: $main-fc
+  font-family: "Opensans", "Arial", sans-serif;
+  font-size: $fs-base;
+  font-weight: 100;
+  line-height: $lh-base;
+  color: $main-fc;
 }
