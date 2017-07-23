@@ -1,15 +1,27 @@
 {
   "name": "pink",
   "version": "1.0.0",
-  "description": "",
+  "description": "pink_project",
   "main": "Gruntfile.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
     "grunt-contrib-sass": "^1.0.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Alexander_Matskevich",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexKardone/pink1.git"
+  },
+  "keywords": [
+    "pink"
+  ],
+  "bugs": {
+    "url": "https://github.com/AlexKardone/pink1/issues"
+  },
+  "homepage": "https://github.com/AlexKardone/pink1#readme"
 }
